@@ -1,1 +1,3 @@
-"# elvirabikmetova.github.io" 
+Landing Page студии дизайна интерьеров DIA Design.
+
+В проекте используется JQuery для создания слайдеров (slick slider) и галереи фотографий (fancybox). Скрипты на JavaScript для создания всплывающих окон и обработки формы обратной связи.
